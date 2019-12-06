@@ -1,5 +1,5 @@
-from requests.auth import AuthBase
 import requests
+from requests.auth import AuthBase
 import pandas as pd
 import yaml
 from pandas.io.json import json_normalize
